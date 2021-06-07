@@ -1,3 +1,5 @@
+# Video Link : https://www.youtube.com/watch?v=kkj_iGJ3OEQ
+# Certificate Link: http://certificate.e-yantra.org/validate/b1d8675666dc0a3343c201c6eb6ac132494bd8ba
 # Task 0
 ![](Result/Task_0_result.PNG)
 ![](Result/Task_0_graph.PNG)
